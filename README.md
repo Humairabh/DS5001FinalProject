@@ -13,3 +13,5 @@ All code resourced from class labs and lecture: https://github.com/ontoligent/DS
 
 Code for report worked in collaboration with Nikita Amanna and Nicholas Kalinowski
 
+## Final Report
+.ipynb file containing data descriptions, modeling, interpretations, etc.
