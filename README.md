@@ -1,5 +1,5 @@
 # DS5001FinalProject
-##Analyzing a Corpus of American Science Fiction Novels from the 19th &amp; 20th Century
+Analyzing a Corpus of American Science Fiction Novels from the 19th &amp; 20th Century
 Humaira Halim (hbh4bv@virginia.edu) DS 5001 Spring 2023
 
 ## Data 
